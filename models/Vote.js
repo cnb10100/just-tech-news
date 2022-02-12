@@ -25,7 +25,7 @@ Vote.init(
           model: 'post',
           key: 'id'
         }
-      }
+      },
     },
     {
       sequelize,
